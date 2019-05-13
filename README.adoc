@@ -2,6 +2,7 @@
 
 = Fuse Aggregation
 
+
 The booster demonstrates how to aggregate JSON data from 2 services using Camel. 
 
 Use this booster to:
